@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Algoritmo que muestra en que etapa estas'
+4
+1
+14
+'Dame tu edad'
+5
+1
+4
+edad
+7
+0
+1
+23
+(edad>=0) and (edad<=2)
+7
+0
+1
+24
+(edad>=3) and (edad<=12)
+7
+0
+1
+25
+(edad>=13) and (edad<=18)
+7
+0
+1
+25
+(edad>=19) and (edad<=29)
+7
+0
+1
+25
+(edad>=30) and (edad<=59)
+7
+0
+1
+8
+edad>=60
+13
+4
+1
+25
+'Ya eres un Adulto mayor'
+13
+13
+4
+1
+30
+'Estas en la etapa de Adultez'
+13
+13
+4
+1
+31
+'Estas en la etapa de Juventud'
+13
+13
+4
+1
+34
+'Estas en la etapa de Adolecencia'
+13
+13
+4
+1
+28
+'Estas en la etapa de Niñez'
+13
+13
+4
+1
+27
+'Estas en la etapa de bebe'
+13
+1

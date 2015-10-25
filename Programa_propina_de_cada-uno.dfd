@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+"Ingrese su cuenta:"
+5
+1
+2
+V1
+4
+1
+31
+"Ingrese el numero de personas"
+5
+1
+2
+V2
+6
+3
+11
+cooperacion
+5
+V1/V2
+7
+propina
+9
+V1*10/100
+12
+cooperacion2
+10
+propina/V2
+4
+1
+26
+"Pago de c/u", cooperacion
+4
+1
+24
+"Propina total", propina
+4
+1
+41
+"Pago de la propina de c/u", cooperacion2
+1

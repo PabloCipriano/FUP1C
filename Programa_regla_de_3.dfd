@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+"Aloritmo que muestra la regla de 3"
+4
+1
+22
+"Dame el primer valor"
+5
+1
+2
+N1
+4
+1
+26
+"Ingresa el segundo valor"
+5
+1
+2
+N2
+4
+1
+31
+"Por cuanto lo deseas dividir?"
+5
+1
+2
+N3
+6
+1
+5
+regla
+8
+N2*N3/N1
+4
+1
+25
+"Su resultado es:", regla
+1

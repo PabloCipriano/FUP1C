@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+"Agoritmo que calcula el perimetro y area de un triangulo"
+4
+1
+36
+"Dame el p´rimer lado del triangulo"
+5
+1
+2
+N1
+4
+1
+36
+"Dame el segundo lado del triangulo"
+5
+1
+2
+N2
+4
+1
+35
+"Dame el tercer lado del triangulo"
+5
+1
+2
+N3
+6
+1
+9
+perimetro
+8
+N1+N2+N3
+4
+1
+18
+"Calcular el area"
+4
+1
+16
+"Dame la altura"
+5
+1
+6
+altura
+6
+1
+4
+area
+11
+N2*altura/2
+4
+1
+43
+"El perimetro del triangulo es:", perimetro
+4
+1
+33
+"El area del triangulo es:", area
+1

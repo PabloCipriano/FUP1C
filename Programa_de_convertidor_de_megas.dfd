@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+"Algoritmo que convierta a varias unidades"
+4
+1
+16
+"Dame un numero"
+5
+1
+2
+N1
+6
+3
+9
+kilometro
+8
+N1*10000
+5
+metro
+7
+N1*1000
+10
+centimetro
+6
+N1*100
+6
+2
+9
+milimetro
+6
+N1*0.1
+7
+pulgada
+7
+N1*2.54
+4
+1
+38
+"En kilometros es:   ", kilometro,"Km"
+4
+1
+31
+"En metros es:   ", metro,"Mts"
+4
+1
+38
+"En centimetro es:  ", centimetro,"Cm"
+4
+1
+37
+"En milimetros es:  ", milimetro,"mm"
+4
+1
+33
+"En pulgadas es:  ", pulgada,"In"
+1

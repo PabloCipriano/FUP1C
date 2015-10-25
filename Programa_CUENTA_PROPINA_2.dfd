@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'Bienvenido al restaurante elegante'
+4
+1
+26
+'¿De cuanto es su cuenta?'
+5
+1
+6
+cuenta
+7
+0
+1
+12
+cuenta>=1000
+4
+1
+43
+'A su cuenta se le carga el 20% de propina'
+6
+1
+7
+propina
+13
+cuenta*20/100
+4
+1
+37
+'La propina que dejo es de:', propina
+13
+7
+0
+1
+35
+(cuenta>1000) and (cuenta<=5000)   
+7
+0
+1
+11
+cuenta>5000
+13
+4
+1
+43
+'A su cuenta se le carga el 10% de propina'
+6
+1
+8
+propina3
+13
+cuenta*10/100
+4
+1
+38
+'La propina que dejo es de:', propina3
+13
+13
+4
+1
+43
+'A su cuenta se le carga el 16% de propina'
+6
+1
+8
+propina2
+13
+cuenta*16/100
+4
+1
+38
+'La propina que dejo es de:', propina2
+13
+13
+1
